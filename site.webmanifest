@@ -1,0 +1,17 @@
+{
+  "name": "АВТОПИЛОТ — трезвый водитель",
+  "short_name": "АВТОПИЛОТ",
+  "description": "Круглосуточная служба трезвых водителей в Москве. Торг уместен.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0d1b2a",
+  "theme_color": "#0d1b2a",
+  "lang": "ru",
+  "icons": [
+    { "src": "/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/favicon-32x32.png",          "sizes": "32x32",   "type": "image/png" },
+    { "src": "/favicon-16x16.png",          "sizes": "16x16",   "type": "image/png" }
+  ]
+}
